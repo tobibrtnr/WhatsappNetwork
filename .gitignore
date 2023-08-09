@@ -1,0 +1,12 @@
+.vscode
+target
+*.db-shm
+*.db-wal
+*.json
+
+# Input and output files
+*.db
+*.csv
+
+# Local test
+local.txt
